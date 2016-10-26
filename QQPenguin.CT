@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="19">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"QQ号码"</Description>
+      <LastState Value="345280563" RealAddress="02EE4EE0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>02EE4EE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"等级"</Description>
+      <LastState Value="113" RealAddress="002E5B00"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>002E5B00</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"年龄"</Description>
+      <LastState Value="6505" RealAddress="02FC0FD8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>02FC0FD8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"饥饿值1"</Description>
+      <LastState Value="3980" RealAddress="02EE5260"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>02EE5260</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"饥饿值2"</Description>
+      <LastState Value="3980" RealAddress="0303F388"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0303F388</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"饥饿值3"</Description>
+      <LastState Value="3980" RealAddress="0C4DABB4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0C4DABB4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"清洁值1"</Description>
+      <LastState Value="3978" RealAddress="02EE5518"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>02EE5518</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"清洁值2"</Description>
+      <LastState Value="3978" RealAddress="0303F8A4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0303F8A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"清洁值3"</Description>
+      <LastState Value="3978" RealAddress="0C4DABB8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0C4DABB8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"清洁值上限或饥饿值上限1"</Description>
+      <LastState Value="6000" RealAddress="02EE5D40"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>02EE5D40</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"清洁值上限或饥饿值上限2"</Description>
+      <LastState Value="6000" RealAddress="02F648B4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>02F648B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"清洁值上限或饥饿值上限3"</Description>
+      <LastState Value="6000" RealAddress="02F648D0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>02F648D0</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
